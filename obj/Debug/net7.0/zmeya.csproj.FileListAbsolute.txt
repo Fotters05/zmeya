@@ -1,0 +1,14 @@
+C:\Users\Fotters\source\repos\zmeya\bin\Debug\net7.0\zmeya.exe
+C:\Users\Fotters\source\repos\zmeya\bin\Debug\net7.0\zmeya.deps.json
+C:\Users\Fotters\source\repos\zmeya\bin\Debug\net7.0\zmeya.runtimeconfig.json
+C:\Users\Fotters\source\repos\zmeya\bin\Debug\net7.0\zmeya.dll
+C:\Users\Fotters\source\repos\zmeya\bin\Debug\net7.0\zmeya.pdb
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.dll
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\refint\zmeya.dll
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.pdb
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\zmeya.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\zmeya\obj\Debug\net7.0\ref\zmeya.dll
